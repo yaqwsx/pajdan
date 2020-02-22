@@ -39,9 +39,9 @@ label{
 }
 
 p {
-    font-family: 'Cormorant Garamond', serif;
-    margin-top: 0.5em;
-    font-size: 1.5em;
+    /* font-family: 'Cormorant Garamond', serif; */
+    margin: 0.5em 0;
+    font-size: 1.3em;
     text-align: justify;
 }
 
