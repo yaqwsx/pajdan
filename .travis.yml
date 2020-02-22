@@ -1,3 +1,6 @@
+script:
+    - echo "Nothing to do"
+
 deploy:
     provider: pages
     skip_cleanup: true
